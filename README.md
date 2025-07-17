@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-logo-link.png" width="200"/>
+  <img src="wentsy logo.png" width="200"/>
 </p>
 
 
