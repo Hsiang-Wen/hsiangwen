@@ -5,6 +5,8 @@
 
 # Hi, I'm Hsiang-Wen (翔雯) 🌙🎭  
 *Sound Designer, Singer, Storyteller*
+I create immersive sonic experiences that blend emotion, storytelling, and technical craft—especially for theatre, music, and narrative performance.
+
 
 ---
 
@@ -24,27 +26,35 @@ With deep roots in sound design and storytelling, I specialize in crafting emoti
 
 ---
 
-🌟 **Featured Projects**
+## 🎧 Featured Projects
 
-### 🔸 [Obsession](https://github.com/hiangwen/Yale_Portfolio_Structure/tree/main/Obsession)  
-*A concept audio project exploring the journey from emotional obsession to personal rebirth.*  
-Includes covers, transitions, and soundscapes that unfold like a sonic short film.
+### 🎼 Obsession: A Sonic Storytelling Project  
+A curated audio journey through longing, control, and transformation—blending cover songs, ambient soundscapes, and sound design.
 
-### 🔸 [The Moon Forgets (月亮忘記了)](https://youtu.be/VRQjc_YytOI?si=VkOMtNKm_rut2wSG)  
-An audio drama adapted from Jimmy Liao’s children’s book.  
-Created to evoke beauty and intimacy purely through sound.  
-🎧 Roles: Sound Design, Recording, Mixing, Narration Recording, Editing
+### 🎙️ My Junk (Cover)  
+An intimate reinterpretation of the *Spring Awakening* musical theatre number, independently recorded and arranged.
 
-### 🔸 [The Worst Day](#)  
-Live theatrical sound design for a 20-minute short play.  
-Responsibilities: Cue list design, Qlab programming, SFX composition, show control.  
-🛠️ Screenshots, files and description in portfolio repo.
+### 🎭 Theatre Sound Design *(coming soon)*  
+A portfolio of theatrical soundscapes and cues designed for live performance.
+
+### 🧪 Sound Playground *(coming soon)*  
+An experimental collection of Max/MSP sketches, Python-based audio tools, and sonic curiosities.
+
 
 ---
 
-🧰 **Tools I Use**  
-`Logic Pro` · `Qlab` · `Reaper` · `GarageBand` · `Audacity`  
-`Markdown` · `GitHub` · `Google Workspace`
+## 🛠 Tools & Skills
+
+**🎛 DAWs / Audio Tools**  
+Logic Pro · Ableton Live · Pro Tools (basic) · Reaper (learning)  
+Max/MSP (in progress) · Mic setup & voice editing · Field recording
+
+**💻 Programming / Creative Tech**  
+Python (basic) · Git/GitHub · Markdown · p5.js · HTML/CSS
+
+**🎤 Vocal & Performance**  
+Pop · R&B · Musical Theatre · Voiceover · Actor-Musician collaboration
+
 
 ---
 
@@ -63,7 +73,8 @@ I’m currently preparing to apply to MFA Sound Design programs, and building a 
 
 🌐 **Find Me**  
 📌 GitHub: [hiangwen](https://github.com/hiangwen)  
-📧 Email: hsiangwenchang112@gmail.com
+📮 Email: [hiangwenchang112@gmail.com](mailto:hiangwenchang112@gmail.com)
+
 
 ---
 
