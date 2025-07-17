@@ -58,7 +58,7 @@ I’m currently preparing to apply to MFA Sound Design programs, and building a 
 
 🌐 **Find Me**  
 📌 GitHub: [hiangwen](https://github.com/hiangwen)  
-📧 Email: (You can insert your preferred contact or just leave this out)
+📧 Email: hsiangwenchang112@gmail.com
 
 ---
 
