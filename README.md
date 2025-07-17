@@ -4,72 +4,57 @@
 
 
 # Hi, I'm Hsiang-Wen (翔雯) 🌙🎭  
-*Sound Designer, Singer, Storyteller*
+**Sound Designer · Singer · Storyteller**
+
 I create immersive sonic experiences that blend emotion, storytelling, and technical craft—especially for theatre, music, and narrative performance.
-
-
----
-
-🎓 **Background**  
-I graduated from National Taiwan University with a B.A. in Drama and Theatre.  
-With deep roots in sound design and storytelling, I specialize in crafting emotional, immersive audio experiences—especially for theater, music, and narrative performance.
+With a B.A. in Drama from National Taiwan University and a deep love for music and voice,  
+I'm passionate about creating sonic narratives that resonate with feeling and humanity.
 
 ---
 
-🎧 **Focus Areas**  
-- 🎭 Theatrical Sound Design  
-- 🎙️ Audio Drama & Voice Production  
-- 🎼 Music Arrangement (Logic Pro)  
-- 🔊 Environmental & Abstract Soundscapes  
-- 🖥️ Cue Programming (Qlab, Logic Pro)  
-- 💡 Creative Transitions & Sound Narrative
+## 🎧 Featured Works
 
----
+- 🎼 **[Obsession: A Sonic Storytelling Project](https://github.com/Hsiang-Wen/obsession-audio-project)**  
+  A curated audio journey through longing, control, and transformation — blending cover songs, ambient soundscapes, and sound design.  
+  *(Includes My Strange Addiction, Creep, Defying Gravity... and more.)*
 
-## 🎧 Featured Projects
+- 🎙️ **[My Junk (Cover)](https://github.com/Hsiang-Wen/my-junk-cover)**  
+  My intimate reinterpretation of the musical theatre number from *Spring Awakening*, produced and performed independently.
 
-### 🎼 Obsession: A Sonic Storytelling Project  
-A curated audio journey through longing, control, and transformation—blending cover songs, ambient soundscapes, and sound design.
+- 🎭 **[Theatre Sound Design](https://github.com/Hsiang-Wen/theatre-sound-design)** *(coming soon)*  
+  A portfolio of theatrical soundscapes and cues designed for live performance.
 
-### 🎙️ My Junk (Cover)  
-An intimate reinterpretation of the *Spring Awakening* musical theatre number, independently recorded and arranged.
-
-### 🎭 Theatre Sound Design *(coming soon)*  
-A portfolio of theatrical soundscapes and cues designed for live performance.
-
-### 🧪 Sound Playground *(coming soon)*  
-An experimental collection of Max/MSP sketches, Python-based audio tools, and sonic curiosities.
-
+- 🧪 **[Sound Playground](https://github.com/Hsiang-Wen/sound-playground)** *(coming soon)*  
+  An experimental space for Max/MSP, Python audio tools, and strange sonic ideas.
 
 ---
 
 ## 🛠 Tools & Skills
 
-**🎛 DAWs / Audio Tools**  
-Logic Pro · Ableton Live · Pro Tools (basic) · Reaper (learning)  
-Max/MSP (in progress) · Mic setup & voice editing · Field recording
+🎛 **DAWs & Audio**  
+Logic Pro, Ableton Live, Pro Tools (basic), Reaper (learning)  
+Max/MSP (in progress), mic setup & recording workflow
 
-**💻 Programming / Creative Tech**  
-Python (basic) · Git/GitHub · Markdown · p5.js · HTML/CSS
+💻 **Programming / Creative Tech**  
+Python (basic), Git/GitHub, Markdown, audio scripting, interactive sound  
+HTML/CSS (beginner), p5.js (experimental)
 
-**🎤 Vocal & Performance**  
-Pop · R&B · Musical Theatre · Voiceover · Actor-Musician collaboration
-
-
----
-
-💬 **Languages**  
-Fluent in Mandarin Chinese, conversational in English  
-Preparing for IELTS and graduate school in Sound Design 🎓
+🎤 **Performance**  
+Pop, R&B, Musical Theatre vocals  
+Live mixing, voice-over, actor-musician collaboration
 
 ---
 
-✨ **About Me**  
-I believe that sound is not just an element—it's a world.  
-I want to use my voice and sound design to tell stories that heal, awaken, and inspire.  
-I’m currently preparing to apply to MFA Sound Design programs, and building a portfolio that reflects both my sensitivity and boldness.
+## 🧡 What Drives Me
+
+I'm moved by sonic intimacy, the poetics of voice, and the textures of memory.  
+My work often revolves around emotionality, obsession, and the act of reclaiming one's voice.
+
+Whether through a whisper in headphones, a thunderous theatrical cue,  
+or a song sung on a quiet night — I want my sound to *feel*.
 
 ---
+
 
 🌐 **Find Me**  
 📌 GitHub: [hiangwen](https://github.com/hiangwen)  
