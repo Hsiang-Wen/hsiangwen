@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="your-logo-link.png" width="200"/>
+</p>
+
+
 # Hi, I'm Hsiang-Wen (翔雯) 🌙🎭  
 *Sound Designer, Singer, Storyteller*
 
