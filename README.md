@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="wentsy logo.png" width="200"/>
+  <img src=" "<img width="1024" height="1024" alt="wentsy logo" src="https://github.com/user-attachments/assets/1e9335bc-5649-4546-8157-542b89d9ae65" />
+ width="200"/>
 </p>
 
 
